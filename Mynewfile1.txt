@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 Demo of Srip
 Line2 related to some file change
 Line 3
 Line 4
 line 5
 hhh
+=======
+hiii 1
+>>>>>>> 8f811710f3d811ef385e41ad804cb14f8f57ad01
